@@ -7,3 +7,8 @@
 #
 layout: home
 ---
+
+## Machine Learning
+### Exploratory Analysis on Fair Price shops in Tamil Nadu
+
+Exploratory Analysis on the distribution of Fair Price shops spread across the state of Tamil Nadu. The data used for this analysis is obtained from https://tn.data.gov.in/catalog/public-distribution-systempds-fair-price-shops-tamil-nadu 
